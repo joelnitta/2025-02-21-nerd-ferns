@@ -9,17 +9,22 @@ execute:
   echo: true
 ---
 
-## Outline
-
-- What are ferns?
-- What is open science?
-- Open science x ferns
-
 ## Joel H. Nitta (PhD), pteridologist
 
+:::: {.columns}
+
+::: {.column width="50%"}
 - 4th generation Japanese-American, now living in Japan
 
-- My research focuses on the ecology and evolution of **ferns**
+- Research focuses on the ecology and evolution of **ferns**
+:::
+
+::: {.column width="50%"}
+![](images/joel_in_field_jy-meyer.jpg)
+
+:::
+
+::::
 
 ## Why are ferns important?
 
@@ -27,21 +32,15 @@ execute:
 
 ## Why are ferns important?
 
-- Ferns continue to fill important niches in local environments, such as forming the herbaceous layer of the forest floor
-
-## Why are ferns cool?
-
-- Ferns are not as showy as flowers, but are subtly beautiful in their own monochromatic way
-
-- Ferns have a unique life cycle (more on that soon!)
+- Ferns continue to fill important niches in diverse environments all over the planet
 
 ## What exactly are ferns?
 
-- Two groups of plants that have traditionally been studied together: ferns and lycophytes
+- Two groups of plants that have traditionally been studied together: **ferns** and **lycophytes**
 
-- They are all vascular plants that reproduce via spores and lack flowers
+- They are all vascular plants that **reproduce via spores** and **lack flowers**
 
-- Collectively, these are called "pteridophytes". Botanists used to think the two groups were closely related, but now DNA has shown that is not so.
+- Collectively, these are called **"pteridophytes"**. Botanists used to think the two groups were closely related, but now DNA has shown that is not so.
 
 ## Are ferns ancient plants?
 
@@ -53,15 +52,17 @@ execute:
 
 ## Ferns have two distinct forms
 
-- Sporophyte vs gametophtye
+- "Sporophyte": The larger form that produces spores
+
+- "Gametophyte": Much smaller form that produces gametes (egg and sperm)
 
 ## The primary way to study ferns is to observe them in the field
 
-- I use DNA to study the distrubtion of fern gametophytes. But even then, basic field observation is a must.
+- I use DNA to study fern gametophytes. But even then, basic field observation is a must.
 
 ## Field observations in the age of data science
 
-- Capabilities to aggregate and share data are revolutionizing biology (and science in general)
+- Increasing ability to aggregate and share data is revolutionizing biology
 
 - Example: iNaturalist
 
@@ -146,3 +147,9 @@ execute:
 
 - This is really important because museums are where we store the **type specimen** of a species
   - The specimen that is tied to the initial publication of a species name
+
+## Why are ferns cool?
+
+- Ferns are not as showy as flowers, but are subtly beautiful in their own monochromatic way
+
+- Ferns have a unique life cycle (more on that soon!)
