@@ -7,6 +7,10 @@ format:
     css: styles.css
 execute: 
   echo: true
+title-slide-attributes:
+  data-background-image: images/title_background.png
+  data-background-size: contain
+  data-background-opacity: "0.5"
 ---
 
 ## Joel H. Nitta (PhD), pteridologist
