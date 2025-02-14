@@ -7,7 +7,7 @@ execute:
   echo: true
 ---
 
-# Open Source Ferns {.theme-slide1 .center}
+# Open Source Ferns {.theme-slide1}
 
 ::: {.center-v}
 Joel H. Nitta
@@ -17,7 +17,9 @@ Joel H. Nitta
 <https://www.joelnitta.com>
 :::
 
-## Joel H. Nitta (PhD)
+![](https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by.png){.bottom-image}
+
+## Joel H. Nitta, PhD
 
 :::: {.columns}
 
@@ -28,11 +30,20 @@ Joel H. Nitta
 :::
 
 ::: {.column width="50%"}
-![](images/joel_in_field_jy-meyer.jpg)
-
+![](images/joel_in_field_jy-meyer.jpg){height="600"}
 :::
 
 ::::
+
+::: {.aside}
+
+::: {.small}
+
+Photo: Jean-Yves Meyer
+
+:::
+
+:::
 
 # Why ferns?
 
@@ -40,20 +51,336 @@ Joel H. Nitta
 
 ---
 
-::: {.center-image}
-![](images/moorea_class.jpg)
+::: {.center-v}
+![](images/moorea_class.jpg){height="600"}
 :::
 
 
 ---
 
-::: {.center-image}
-![](images/kurzii.png)
+::: {.center-v}
+![](images/kurzii.png){height="600"}
 :::
 
 
 ---
 
-::: {.center-image}
-![](images/cryptogams.jpg)
+::: {.center-v}
+![](images/cryptogams.jpg){height="600"}
 :::
+
+::: {.aside}
+::: {.small}
+Fitton, Sarah Mary, and Elizabeth Fitton. “Plate 20: Cryptogamia.” In *Conversations on Botany*. London, England: Longman, Hurst, Rees, Orme, and Brown, 1817.  
+<https://digital.sciencehistory.org/works/ks65hc299>.  
+Public domain.
+:::
+:::
+
+---
+
+::: {.center-v}
+![](images/polystichum.jpeg){height="600"}
+:::
+
+---
+
+::: {.center-v}
+![](images/chelianthes.jpeg){height="600"}
+:::
+
+::: {.aside}
+::: {.small}
+Photo: Jose A. Campos  
+<https://www.fernsoftheworld.com/2016/05/31/cheilanthes-hispanica/>
+:::
+:::
+
+---
+
+::: {.center-v}
+![](images/hymenophyll.jpg){height="600"}
+:::
+
+---
+
+::: {.center-v}
+![](images/tree-fern.jpeg){height="600"}
+:::
+
+---
+
+::: {.center-v}
+![](images/masill.jpeg){height="600"}
+:::
+
+::: {.aside}
+::: {.small}
+Photo: Meredith Cosgrove  
+<http://www.plantsystematics.org/imgs/meredith/r/Marsileaceae_Marsilea_drummondii_38654.html>
+:::
+:::
+
+---
+
+:::: {.columns}
+
+::: {.column width="30%"}
+### Spores
+:::
+
+::: {.column width="50%"}
+![](images/spores.jpeg){height="600"}
+:::
+
+::::
+
+---
+
+:::: {.columns}
+
+::: {.column width="30%"}
+### Vascular tissue
+:::
+
+::: {.column width="50%"}
+![](images/vascular_tissue.jpeg){height="500"}
+:::
+
+::::
+
+::: {.aside}
+::: {.small}
+Photo: Robbin Moran  
+<http://www.plantsystematics.org/cgi-bin/dol/dol_show_link.pl?/imgs/robbin/r/Dryopteridaceae_Polystichum_concinnum_7548.html>
+:::
+:::
+
+---
+
+::: {.center-v}
+![](images/fern-lyc-tree.png){height="600"}
+:::
+
+::: {.aside}
+::: {.small}
+Sigel, E.M. et al. (2018) Frontiers in Plant Science <https://doi.org/10.3389/fpls.2018.01450>.  
+CC BY 4.0, <https://creativecommons.org/licenses/by/4.0/>
+:::
+:::
+
+---
+
+::: {.center-v}
+![](images/pteridophytes.png){height="600"}
+:::
+
+::: {.aside}
+::: {.small}
+Sigel, E.M. et al. (2018) Frontiers in Plant Science <https://doi.org/10.3389/fpls.2018.01450>.  
+CC BY 4.0, <https://creativecommons.org/licenses/by/4.0/>
+:::
+:::
+
+---
+
+::: {.center-v}
+![](images/polystichum.jpeg){height="600"}
+:::
+
+---
+
+::: {.center-v}
+![](images/gametophyte.jpeg){height="600"}
+:::
+
+---
+
+::: {.center-v}
+![](images/lifecycle.jpeg){height="600"}
+:::
+
+::: {.aside}
+::: {.small}
+Sigel, E.M. et al. (2018) Frontiers in Plant Science <https://doi.org/10.3389/fpls.2018.01450>.  
+CC BY 4.0, <https://creativecommons.org/licenses/by/4.0/>
+:::
+:::
+
+## Field biology in the age of data science
+
+::: {.center-v}
+![](images/field_biology_data_science_cycle.png){height="550"}
+:::
+
+## Field biology in the age of ~~data~~ citizen science
+
+::: {.center-v}
+![](images/field_biology_citizen_science_cycle.png){height="550"}
+:::
+
+
+## Field biology in the age of data science
+
+::: {.center-v}
+![](images/field_biology_data_science_cycle.png){height="550"}
+:::
+
+## The Fern Tree of Life (FTOL) project
+
+:::: {.columns}
+
+::: {.column width="50%"}
+- Goal: build a phylogenetic tree including all fern species on the planet (about ~12,000).
+
+- Benefits from and gives back to open science
+:::
+
+::: {.column width="50%"}
+![](images/ftol_webpage.png){height="450"}
+:::
+
+::::
+
+::: {.aside}
+::: {.small}
+Nitta, Joel H., Eric Schuettpelz, Santiago Ramírez-Barahona, and Wataru Iwasaki. 2022. “An Open and Continuously Updated Fern Tree of Life.” Frontiers in Plant Sciences 13. <https://doi.org/10.3389/fpls.2022.909768.>
+:::
+:::
+
+## Building FTOL
+
+- Download data from **GenBank** (global repository of DNA sequences), clean it, and analyze.
+
+- **Automate** with code, **repeat**.
+
+::: {.center-v}
+![](images/ftol_make.png){height="300"}
+:::
+
+## Growth of FTOL
+
+:::: {.columns}
+
+::: {.column width="50%"}
+- The initial publication of FTOL was the **largest fern phylogeny** to date (~6,000 species).
+
+- Number of total fern sequences has steadily increased since the initial publication.
+
+::: {.small}
+Nitta, Joel H., Eric Schuettpelz, Santiago Ramírez-Barahona, and Wataru Iwasaki. 2022. “An Open and Continuously Updated Fern Tree of Life.” Frontiers in Plant Sciences 13. <https://doi.org/10.3389/fpls.2022.909768.>
+:::
+:::
+
+::: {.column width="50%"}
+![](images/ftol_tree.png){height="500"}
+:::
+
+::::
+
+## Research supported by FTOL
+
+:::: {.columns}
+
+::: {.column width="50%"}
+- Discovery of convergent evolution (same phenomenon evolved in two different groups of organisms) of extra-floral nectaries in ferns and flowering plants.
+
+::: {.small}
+Suissa, J.S., Li, FW. & Moreau, C.S. Convergent evolution of fern nectaries facilitated independent recruitment of ant-bodyguards from flowering plants. Nat Commun 15, 4392 (2024). <https://doi.org/10.1038/s41467-024-48646-x>
+:::
+
+:::
+
+::: {.column width="50%"}
+![](images/suissa_ants.png){height="550"}
+:::
+
+::::
+
+## Towards Open Taxonomy
+
+:::: {.columns}
+
+::: {.column width="50%"}
+- Taxonomy is the study of **naming life**
+- Until very recently, taxonomies were published by a **small number of experts**
+
+![](images/hooker_copeland.png){height="200"}
+:::
+
+::: {.column width="50%"}
+
+![](images/linnaeus.png){height="450"}
+:::
+
+::::
+
+## Pteridophyte Phylogeny Group **(PPG)**
+
+::: {.center-v}
+![](images/ppg_spain.jpg){height="300"}
+:::
+
+- PPG seeks to **democratize** and **accelerate** the taxonomic process by using an **open-source**, **community-driven** model
+
+::: {.small}
+Photo: Cheng-Wei Chen
+:::
+
+## Discussions hosted on GitHub
+
+::: {.center-v}
+![](images/github_discussions.png){height="450"}
+:::
+
+<https://github.com/pteridogroup/ppg>
+
+## Taxonomic decisions are made by vote
+
+:::: {.columns}
+
+::: {.column width="50%"}
+![](images/sahashia_question.png){height="200"}
+![](images/sahashia_gbif.jpeg){height="200"}
+:::
+
+::: {.column width="50%"}
+![](images/google_vote.png){height="400"}
+
+:::
+
+::::
+
+::: {.aside}
+::: {.small}
+*Sahashia stricta* (Underw.) Li Bing Zhang & Liang Zhang Observed in Russian Federation
+by V.S. Volkotrub (licensed under <http://creativecommons.org/licenses/by-nc/4.0/>)
+:::
+:::
+
+
+## Taxonomy is **continuously updated** and **openly available**
+
+:::: {.columns}
+
+::: {.column width="25%"}
+... in collaboration with World Flora Online (WFO)
+:::
+
+::: {.column width="75%"}
+![](images/wfo_plantlist.png){height="450"}
+
+<https://wfoplantlist.org/>
+:::
+
+::::
+
+## Acknowledgements {background-image="images/angiopteris_dark.png" background-size="cover" background-opacity="0.9"}
+
+- Eric Schuettpelz  
+- Harald Schneider  
+- Carl Rothfels  
+- Michael Hassler  
+- ...and the entire PPG community
+
+- Japan Society for the Promotion of Science (16H06279, 22H04925, 22K1517)
