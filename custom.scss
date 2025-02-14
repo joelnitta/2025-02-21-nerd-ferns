@@ -1,0 +1,60 @@
+/*-- scss:defaults --*/
+$theme-black: #1b1b1b;
+$theme-teal: #00d1c1;
+$theme-white: #F7F8F9;
+
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600;1,700&display=swap');
+
+
+$body-bg: $theme-black;
+$body-color: $theme-white;
+$link-color: $theme-teal;
+
+$font-family-sans-serif: 'Open Sans', sans-serif;
+$presentation-heading-font: 'Montserrat', sans-serif;
+
+/*-- scss:rules --*/
+
+@mixin background-full {
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-opacity: 0.2;
+}
+
+.theme-slide1 {
+  &:is(.slide-background) {
+    background-image: url('../../../../../images/angiopteris_dark.png');
+    @include background-full;
+  }
+  h1 {
+    color: $theme-white; // or #5CB4C2
+    font-size: 2em;
+    font-family: 'IBM Plex Mono'
+  }
+  h2, h3, h4, h5, p, pre {
+    margin-left: 100px;
+  }
+}
+
+@mixin center-v {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.center-image {
+  @include center-v;
+  width: 100%;  // Take full width of the container
+  height: 100vh; // Ensure the image takes the full height of the viewport
+  overflow: hidden;
+
+  img {
+    height: 100vh;   // Expand to full viewport height
+    width: auto;     // Maintain aspect ratio, adjusting width dynamically
+    max-width: 100%; // Prevents overflow beyond the container
+    object-fit: contain;
+  }
+}

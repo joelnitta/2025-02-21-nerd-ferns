@@ -1,26 +1,30 @@
 ---
-title: "My Presentation"
-author: "Joel Nitta"
 format:
   revealjs:
+    theme: [default, custom.scss]
     incremental: false
-    css: styles.css
 execute: 
   echo: true
-title-slide-attributes:
-  data-background-image: images/title_background.png
-  data-background-size: contain
-  data-background-opacity: "0.5"
 ---
 
-## Joel H. Nitta (PhD), pteridologist
+# Open Source Ferns {.theme-slide1 .center}
+
+::: {.center-v}
+Joel H. Nitta
+:::
+
+::: {.center-v}
+<https://www.joelnitta.com>
+:::
+
+## Joel H. Nitta (PhD)
 
 :::: {.columns}
 
 ::: {.column width="50%"}
 - 4th generation Japanese-American, now living in Japan
-
-- Research focuses on the ecology and evolution of **ferns**
+- Assoc. Prof. at Chiba University
+- Research topic: the ecology and evolution of **ferns**
 :::
 
 ::: {.column width="50%"}
@@ -30,130 +34,26 @@ title-slide-attributes:
 
 ::::
 
-## Why are ferns important?
+# Why ferns?
 
-- Although now they are outnumbered by flowering plants, fern-like plants once **dominated the earth**, playing a major role in global ecology
+# Ferns are *mysterious*
 
-## Why are ferns important?
+---
 
-- Ferns continue to fill important niches in diverse environments all over the planet
+::: {.center-image}
+![](images/moorea_class.jpg)
+:::
 
-## What exactly are ferns?
 
-- Two groups of plants that have traditionally been studied together: **ferns** and **lycophytes**
+---
 
-- They are all vascular plants that **reproduce via spores** and **lack flowers**
+::: {.center-image}
+![](images/kurzii.png)
+:::
 
-- Collectively, these are called **"pteridophytes"**. Botanists used to think the two groups were closely related, but now DNA has shown that is not so.
 
-## Are ferns ancient plants?
+---
 
-- Ferns and seed plants share a common ancestor
-
-- This makes the fern lineage and the seed plant lineage equally "old"
-
-- Many of fern species alive today evolved as epiphytes on seed plants.
-
-## Ferns have two distinct forms
-
-- "Sporophyte": The larger form that produces spores
-
-- "Gametophyte": Much smaller form that produces gametes (egg and sperm)
-
-## The primary way to study ferns is to observe them in the field
-
-- I use DNA to study fern gametophytes. But even then, basic field observation is a must.
-
-## Field observations in the age of data science
-
-- Increasing ability to aggregate and share data is revolutionizing biology
-
-- Example: iNaturalist
-
-## Open source ethos
-
-- Open source started in software, but can also be applied to science
-
-- The foundation of science is the scientific method and **reproducibility**
-  - This applies to analysis as much as experiments
-  - You can't reproduce it if you don't have access to the data, code, etc.
-
-- The idea of **open science** is that all data, methods, and results should be publicly and freely available
-  - seems simple, but not so easy in practice
-  - there is a tendency of scientists to hide their work until everything is completely wrapped up, to prevent being "scooped"
-  - also, there are very few incentives to share data and code. The primary currency of research is (still) the publication.
-
-## My open-source research
-
-- I always publish my code and data along with the paper
-
-- I develop open-source software and databases for research
-
-## Ferns x open source
-
-- One of my projects builds on open data, and tries to give back to fuel more research
-
-- FTOL = "Fern Tree of Life". Goal is simple: build a phylogenetic tree including all fern species on the planet (about ~12,000).
-  - As a biologist, "Nothing makes sense except in the light of evolution". We need to understand **how things evolved** (in other words, their family tree) to study them.
-
-## How to build a Fern Tree of Life
-
-- Start where the data are. GenBank is a public repository of all published DNA sequences.
-
-- My code crawls GenBank and downloads all fern sequences. It then (mostly) automatically detects and removes misidentifications, then conducts the analysis to produce a phylogenetic tree.
-
-- This had been done before, but always in a "one-off" manner. Previous researchers did not try to keep the tree updated (remember, the primary currency of science is publications. Once the paper is published, few scientists try to update their results).
-
-- FTOL is built (mostly) automatically every three months (if I'm not too busy)
-
-## Growth of FTOL
-
-- The initial publication of FTOL was the largest fern phylogeny to date.
-
-- Number of total fern sequences (and in particular, whole plastomes) has steadily increased since the initial publication.
-
-## Studies supported by FTOL
-
-- Discovery of convergent evolution (same phenomenon evolved in two different groups of organisms) of extra-floral nectaries in ferns and flowering plants
-
-- Some ferns recruit ants for defense by bribing them with sugar, and they did this as they transitioned to living in trees. SO COOL.
-
-## Take-home messages
-
-- Science thrives in the open.
-  - More collaborations
-  - Less waste
-  - Higher quality (fewer mistakes, inadvertent or otherwise)
-
-- We need to incentivize maintenance of databases and software
-
-- Ferns are cool!
-
-# extra text
-
-## Outline
-
-- What are ferns
-  - Why do they matter?
-  - Clear up some misconceptions
-- What is open science
-- Open science x ferns
-
-## Why ferns
-
-- a reduced palette can lead to more creative expressions
-
-## Museomics
-
-- Scientists like to say they study the 'omics' of something (started with "genomics")
-
-- Museomics is the idea that we can study the DNA of museum (or herbarium) specimens
-
-- This is really important because museums are where we store the **type specimen** of a species
-  - The specimen that is tied to the initial publication of a species name
-
-## Why are ferns cool?
-
-- Ferns are not as showy as flowers, but are subtly beautiful in their own monochromatic way
-
-- Ferns have a unique life cycle (more on that soon!)
+::: {.center-image}
+![](images/cryptogams.jpg)
+:::
