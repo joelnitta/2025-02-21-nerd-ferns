@@ -7,17 +7,13 @@ execute:
   echo: true
 ---
 
-# Open Source Ferns {.theme-slide1}
+## Open Source Ferns {.theme-slide1}
 
-::: {.center-v}
 Joel H. Nitta
-:::
 
-::: {.center-v}
 <https://www.joelnitta.com>
-:::
 
-![](https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by.png){.bottom-image}
+[![](https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by.png)](https://creativecommons.org/licenses/by/4.0/){.bottom-image}
 
 ## Joel H. Nitta, PhD
 

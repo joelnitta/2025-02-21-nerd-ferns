@@ -25,17 +25,19 @@ $presentation-heading-font: 'Montserrat', sans-serif;
 }
 
 .theme-slide1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  
   &:is(.slide-background) {
     background-image: url('../../../../../images/angiopteris_dark.png');
     @include background-full;
   }
-  h1 {
+  h2 {
     color: $theme-white; // or #5CB4C2
-    font-size: 2em;
-    font-family: 'IBM Plex Mono'
-  }
-  h2, h3, h4, h5, p, pre {
-    margin-left: 100px;
+    font-size: 3em;
+    font-family: 'IBM Plex Mono';
   }
 }
 
