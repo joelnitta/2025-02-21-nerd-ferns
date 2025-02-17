@@ -363,7 +363,6 @@ by V.S. Volkotrub (licensed under <http://creativecommons.org/licenses/by-nc/4.0
 :::
 :::
 
-
 ## Taxonomy is **continuously updated** and **openly available**
 
 :::: {.columns}
@@ -379,6 +378,16 @@ by V.S. Volkotrub (licensed under <http://creativecommons.org/licenses/by-nc/4.0
 :::
 
 ::::
+
+## Take-home messages
+
+::: {.incremental}
+
+- Science thrives in the open.
+- We need to incentivize maintenance of databases and software.
+- Ferns are cool!
+
+:::
 
 ## Acknowledgements {background-image="images/angiopteris_dark.png" background-size="cover" background-opacity="0.9"}
 
