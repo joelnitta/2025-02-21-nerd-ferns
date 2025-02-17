@@ -215,12 +215,25 @@ CC BY 4.0, <https://creativecommons.org/licenses/by/4.0/>
 ![](images/field_biology_citizen_science_cycle.png){height="550"}
 :::
 
-
-## Field biology in the age of data science
+---
 
 ::: {.center-v}
-![](images/field_biology_data_science_cycle.png){height="550"}
+![](images/inat-blechnum.jpg){height="450"}
 :::
+
+---
+
+::: {.center-v}
+![](images/inat-blechnum-license.jpg){height="450"}
+:::
+
+## Making data **open**
+
+- Data should have a license
+- Data should be well-documented 
+- Data should be findable (in a public database)
+
+[The "FAIR" principles](https://www.go-fair.org/fair-principles/)
 
 ## The Fern Tree of Life (FTOL) project
 
