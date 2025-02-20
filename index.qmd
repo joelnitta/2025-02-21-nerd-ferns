@@ -55,10 +55,10 @@ Photo: Jean-Yves Meyer
 :::
 
 
----
+## Cryptogams
 
 ::: {.center-v}
-![](images/cryptogams.jpg){height="600"}
+![](images/cryptogams.jpg){height="550"}
 :::
 
 ::: {.aside}
@@ -188,9 +188,31 @@ CC BY 4.0, <https://creativecommons.org/licenses/by/4.0/>
 
 ---
 
+:::: {.columns}
+
+::: {.column width="25%"}
 ::: {.center-v}
-![](images/lifecycle.jpeg){height="600"}
+Sporophyte
 :::
+:::
+
+
+::: {.column width="55%"}
+::: {.center-v}
+![](images/lifecycle.jpeg){height="550"}
+:::
+:::
+
+
+::: {.column width="20%"}
+::: {.center-v}
+Gametophyte
+:::
+:::
+
+
+::::
+
 
 ::: {.aside}
 ::: {.small}
@@ -199,37 +221,34 @@ CC BY 4.0, <https://creativecommons.org/licenses/by/4.0/>
 :::
 :::
 
-## Field biology in the age of data science
+## DNA barcoding
 
 ::: {.center-v}
-![](images/field_biology_data_science_cycle.png){height="550"}
+![](images/dna_barcoding.png){height="400"}
 :::
 
-## Field biology in the age of ~~data~~ citizen science
+## Open source data
 
-::: {.center-v}
-![](images/field_biology_citizen_science_cycle.png){height="550"}
+:::: {.columns}
+
+::: {.column width="50%"}
+- DNA barcoding only works when there are **reference data**
+
+- Open source software enables technical progress
+
+- **Open data enable scientific progress**
 :::
 
----
+::: {.column width="50%"}
+![](https://ncbiinsights.ncbi.nlm.nih.gov/wp-content/uploads/2023/01/mRNA_sequences_submission_portal_blog-1-e1675102717740.png)
 
-::: {.center-v}
-![](images/inat-blechnum.jpg){height="450"}
+::: {.small}
+<https://ncbiinsights.ncbi.nlm.nih.gov/>
 :::
 
----
-
-::: {.center-v}
-![](images/inat-blechnum-license.jpg){height="450"}
 :::
 
-## Making data **open**
-
-- Data should have a license
-- Data should be well-documented 
-- Data should be findable (in a public database)
-
-[The "FAIR" principles](https://www.go-fair.org/fair-principles/)
+::::
 
 ## The Fern Tree of Life (FTOL) project
 
