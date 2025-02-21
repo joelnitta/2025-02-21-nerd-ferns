@@ -200,7 +200,7 @@ CC BY 4.0, <https://creativecommons.org/licenses/by/4.0/>
 ---
 
 ::: {.center-v}
-![](images/gametophyte.jpeg){height="600"}
+![](images/gametophyte_cropped.jpg){height="600"}
 :::
 
 ---
@@ -216,7 +216,7 @@ Sporophyte
 
 ::: {.column width="55%"}
 ::: {.center-v}
-![](images/lifecycle.jpeg){height="550"}
+![](images/lifecycle.jpeg){height="500"}
 :::
 :::
 
