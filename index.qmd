@@ -324,7 +324,7 @@ Nitta, Joel H., Eric Schuettpelz, Santiago Ramírez-Barahona, and Wataru Iwasaki
 :::: {.columns}
 
 ::: {.column width="50%"}
-- Discovery of convergent evolution (same phenomenon evolved in two different groups of organisms) of extra-floral nectaries in ferns and flowering plants.
+- Discovery of convergent evolution of extra-floral nectaries in ferns and flowering plants.
 
 ::: {.small}
 Suissa, J.S., Li, FW. & Moreau, C.S. Convergent evolution of fern nectaries facilitated independent recruitment of ant-bodyguards from flowering plants. Nat Commun 15, 4392 (2024). <https://doi.org/10.1038/s41467-024-48646-x>
