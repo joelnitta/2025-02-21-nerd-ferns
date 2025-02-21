@@ -1,3 +1,4 @@
 /.quarto/
 index_files
 *.html
+.DS_Store
