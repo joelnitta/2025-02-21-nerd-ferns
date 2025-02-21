@@ -54,12 +54,19 @@ Photo: Jean-Yves Meyer
 ![](images/kurzii.png){height="600"}
 :::
 
+---
 
-## Cryptogams
+:::: {.columns}
 
-::: {.center-v}
-![](images/cryptogams.jpg){height="550"}
+::: {.column width="45%"}
+### Cryptogams
 :::
+
+::: {.column width="55%"}
+![](images/cryptogams.jpg){height="560"}
+:::
+
+::::
 
 ::: {.aside}
 ::: {.small}
@@ -68,6 +75,16 @@ Fitton, Sarah Mary, and Elizabeth Fitton. “Plate 20: Cryptogamia.” In *Conve
 Public domain.
 :::
 :::
+
+---
+
+::: {.large}
+
+> *"We have the receipt of fern seed: we walk invisible"*
+
+:::
+
+Shakespeare, Henry IV Part I, Act 2, scene 1
 
 ---
 
